@@ -1,0 +1,58 @@
+﻿@model Prodaja_Softvera_ver3.Web.Areas.AdministratorModul.ViewModels.SoftverDetaljiVM
+@using Prodaja_Softvera_ver3.Web.Areas.AdministratorModul.ViewModels;
+@using Prodaja_Softvera_ver3.Data.EntityModels;
+
+
+@{
+    ViewData["Title"] = "Detalji";
+
+}
+
+<div class="content-wrapper p-4">
+    <h1 class="display-4">Detalji softvera: </h1>
+
+    <form >
+        <input asp-for="SoftverID" hidden />
+
+        <div class="form-group">
+
+            <div class="form-group">
+                <label>Naziv: </label>
+                <input asp-for="Naziv" class="form-control" readonly/>
+                <span asp-validation-for="Naziv" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label>Cijena: </label>
+                <input asp-for="Cijena" class="form-control" readonly/>
+                <span asp-validation-for="Cijena" class="text-danger"></span>
+
+            </div>
+
+            <div class="form-group">
+                <label>Verzija softvera: </label>
+                <input asp-for="Verzija" class="form-control" readonly/>
+                <span asp-validation-for="Verzija" class="text-danger"></span>
+
+            </div>
+
+            <div class="form-group">
+                <label>Specifikacije softvera: </label>
+                <input asp-for="Specifikacija" class="form-control" readonly/>
+                <span asp-validation-for="Specifikacija" class="text-danger"></span>
+
+            </div>
+
+            <div class="form-group">
+                <label>Tip softvera: </label>
+                <input asp-for="TipSoftvera" class="form-control" readonly/>
+                <span asp-validation-for="TipSoftvera" class="text-danger"></span>
+
+            </div>
+
+            <a asp-action="Index" asp-controller="AdminSoftver" asp-area="AdministratorModul" class="btn btn-outline-success btn-sm"><i class="fa fa-chevron-circle-left"></i></a>
+
+
+        </div>
+    </form>
+</div>

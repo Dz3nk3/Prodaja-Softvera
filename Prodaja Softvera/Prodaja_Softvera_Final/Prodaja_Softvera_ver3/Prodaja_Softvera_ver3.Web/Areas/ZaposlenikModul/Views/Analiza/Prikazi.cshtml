@@ -1,0 +1,118 @@
+﻿@using  Prodaja_Softvera_ver3.Web.ViewModels;
+@model AnalizaPrikaziVM
+@{
+    ViewData["Title"] = "Prikazi";
+    var porukaSuccess = (string)TempData["porukaSuccess"];
+    var porukaWarning = (string)TempData["porukaWarning"];
+    var porukaError = (string)TempData["porukaError"];
+    Layout = "~/Areas/ZaposlenikModul/Views/Shared/_Layout.cshtml";
+
+
+}
+
+<style>
+    .pdf {
+        margin-left: 80%;
+    }
+</style>
+
+
+<div class="content-wrapper p-4">
+
+    @if (porukaError != null)
+    {
+        <div class="alert alert-danger" role="alert" id="porukaBox">
+            @porukaError
+        </div>
+    }
+
+    @if (porukaWarning != null)
+    {
+        <div class="alert alert-warning" role="alert" id="porukaBox">
+            @porukaWarning
+        </div>
+    }
+
+    @if (porukaSuccess != null)
+    {
+        <div class="alert alert-success" role="alert" id="porukaBox">
+            @porukaSuccess
+        </div>
+    }
+
+    <p class="h1"> Prikaz analiza: </p>
+
+    <table class="table table-dark">
+        <thead class="thead-light">
+            <tr>
+                <th>Naziv</th>
+                <th>Datum analize</th>
+                <th>Klijent</th>
+                <th>Zaposlenik</th>
+                <th>Softver</th>
+                <th>Akcija</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (AnalizaPrikaziViewModel x in Model.podaciZaHtmlTabelu)
+            {
+                <tr>
+                    <td>@x.Naziv</td>
+                    <td>@x.Datum_analize</td>
+                    <td>
+                        @if (x.Klijent == null)
+                        {
+                            <label> Nema zapisa</label>
+                        }
+                        else
+                        {
+                            <label>@x.Klijent</label>
+                        }
+                    </td>
+                    <td>
+                        @if (x.Zaposlenik == null)
+                        {
+                            <label>Nema zapisa</label>
+                        }
+                        else
+                        {
+                            <label>@x.Zaposlenik</label>
+                        }
+                    </td>
+
+                    <td>
+                        @if (x.Softver == null)
+                        {
+                            <label>Nema zapisa</label>
+                        }
+                        else
+                        {
+                            <label>@x.Softver</label>
+                        }
+                    </td>
+
+                    <td>
+                        <a asp-action="Obrisi" asp-controller="Analiza" asp-route-id="@x.AnalizaID" class="btn btn-outline-danger btn-sm"><i class="fa fa-trash"></i></a>
+                        <a asp-action="UrediForm" asp-controller="Analiza" asp-route-id="@x.AnalizaID" class="btn btn-outline-primary btn-sm"><i class="fa fa-pen"></i></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a asp-action="Dodaj" asp-controller="Analiza" class="btn btn-primary">Dodaj analizu</a>
+
+    <div class="pdf">
+        @{Html.BeginForm("ConvertToPDF", "Analiza", FormMethod.Get);
+            {
+                <div>
+                    @*<input type="submit" value="Create Document" style="width:150px;height:27px" />*@
+                    <button type="submit" value="Create Document" class="btn btn-outline-info btn-lg">Export u PDF</button>
+                </div>
+            }
+            Html.EndForm();
+        }
+    </div>
+
+</div>
+

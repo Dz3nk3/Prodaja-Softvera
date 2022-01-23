@@ -1,0 +1,115 @@
+﻿@using  Prodaja_Softvera_ver3.Web.ViewModels;
+@model cloudscribe.Pagination.Models.PagedResult<SoftverPrikaziViewModel.Row>
+
+
+@addTagHelper *, cloudscribe.Web.Pagination
+@{
+    ViewData["Title"] = "Prikazi";
+    ViewData["Controller"] = "Softver";
+    ViewData["Action"] = "Prikazi";
+
+    var porukaSuccess = (string)TempData["porukaSuccess"];
+    var porukaWarning = (string)TempData["porukaWarning"];
+    var porukaError = (string)TempData["porukaError"];
+
+    Layout = "~/Areas/ZaposlenikModul/Views/Shared/_Layout.cshtml";
+
+}
+
+
+    <div class="content-wrapper p-4">
+
+
+        @if (porukaError != null)
+        {
+            <div class="alert alert-danger" role="alert" id="porukaBox">
+                @porukaError
+            </div>
+        }
+
+        @if (porukaWarning != null)
+        {
+            <div class="alert alert-warning" role="alert" id="porukaBox">
+                @porukaWarning
+            </div>
+        }
+
+        @if (porukaSuccess != null)
+        {
+            <div class="alert alert-success" role="alert" id="porukaBox">
+                @porukaSuccess
+            </div>
+        }
+
+        <h1 class="display-4">Lista softvera</h1>
+        <form>
+            <div class="row">
+                <div class="col-md-5">
+                    <input name="pretragaString" class="form-control" placeholder="Unesite naziv softvera" />
+                </div>
+                <div class="col-md-2">
+                    <button style="width:50px" class="btn btn-primary"><i class="fa fa-search"></i></button>
+                    <button style="width:50px" class="btn btn-primary" asp-action="Prikazi">
+                        <i class="fa fa-times-circle"></i>
+                    </button>
+                    <br /><br />
+                </div>
+            </div>
+        </form>
+
+        <table class="table table-dark">
+            <thead class="thead-light">
+                <tr>
+                    <th>Slika </th>
+                    <th>Naziv</th>
+                    <th>Verzija</th>
+                    <th>Cijena</th>
+                    <th>Tip softvera</th>
+                    <th>Specifikacije</th>
+                    <th>Akcija</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var x in Model.Data)
+                {
+                    <tr>
+                        <td><img src="~/Slike/@x.imgfilename" width="75" height="75" class="img rounded-circle"/></td>
+                        <td>@x.Naziv</td>
+                        <td>@x.Verzija</td>
+                        <td>@x.cijena</td>
+                        <td>
+                            @if (x.TipSoftvera == null)
+                            {
+                                <label> Nema zapisa</label>
+                            }
+                            else
+                            {
+                                <label>@x.TipSoftvera</label>
+                            }
+                        </td>
+                        <td>
+                            @if (x.Specifikacije == null)
+                            {
+                                <label>Nema zapisa</label>
+                            }
+                            else
+                            {
+                                <label>@x.Specifikacije</label>
+                            }
+                        </td>
+
+                        <td>
+                            <a asp-action="Obrisi" asp-controller="Softver" asp-route-id="@x.SoftverID" class="btn btn-outline-danger btn-sm"><i class="fa fa-trash"></i></a>
+                            <a asp-action="UrediForm" asp-controller="Softver" asp-route-id="@x.SoftverID" class="btn btn-outline-primary btn-sm"><i class="fa fa-pen"></i></a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <a asp-action="DodajForm" asp-controller="Softver" class="btn btn-primary btn-lg">Dodaj novi softver</a>
+        <br /><br />
+        <partial name="_PaginationPartial" view-data="ViewData" model="Model" />
+
+
+    </div>

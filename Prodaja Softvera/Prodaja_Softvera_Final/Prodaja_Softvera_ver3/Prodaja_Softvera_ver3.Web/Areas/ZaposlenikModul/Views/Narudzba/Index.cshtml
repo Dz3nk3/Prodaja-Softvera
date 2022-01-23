@@ -1,0 +1,66 @@
+﻿@using Prodaja_Softvera_ver3.Web.Areas.ZaposlenikModul.ViewModels
+
+@{
+    ViewData["Title"] = "Index";
+    var porukaSuccess = (string)TempData["porukaSuccess"];
+    var porukaWarning = (string)TempData["porukaWarning"];
+    var porukaError = (string)TempData["porukaError"];
+    Layout = "~/Areas/ZaposlenikModul/Views/Shared/_Layout.cshtml"; ;
+
+}
+
+<div class="content-wrapper p-4">
+
+    @if (porukaError != null)
+    {
+        <div class="alert alert-danger" role="alert" id="porukaBox">
+            @porukaError
+        </div>
+    }
+
+    @if (porukaWarning != null)
+    {
+        <div class="alert alert-warning" role="alert" id="porukaBox">
+            @porukaWarning
+        </div>
+    }
+
+    @if (porukaSuccess != null)
+    {
+        <div class="alert alert-success" role="alert" id="porukaBox">
+            @porukaSuccess
+        </div>
+    }
+
+    <p class="h1"> Prikaz narudzbi: </p>
+
+    <table class="table table-dark">
+        <thead class="thead-light">
+            <tr>
+                <th>Datum narudzbe</th>
+                <th>Ocjena</th>
+                <th>Komentar</th>
+                <th>Klijent</th>
+                <th>Softvare</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var x in Model.rows)
+            {
+                <tr>
+                    <td>@x.Datum_narudzbe</td>
+                    <td>@x.Ocjena</td>
+                    <td>@x.Komentar</td>
+                    <td>@x.Klijent</td>
+                    <td>@x.Softver</td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+
+
+</div>
+

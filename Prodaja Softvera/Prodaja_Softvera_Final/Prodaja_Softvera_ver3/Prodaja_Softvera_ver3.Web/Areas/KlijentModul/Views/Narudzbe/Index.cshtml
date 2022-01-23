@@ -1,0 +1,95 @@
+﻿
+@using Prodaja_Softvera_ver3.Web.Areas.KlijentModul.ViewModels
+
+@model Prodaja_Softvera_ver3.Web.Areas.KlijentModul.ViewModels.SoftverNarudzbaKartIndexVM
+
+@{
+    ViewData["Title"] = "Index";
+    var porukaSuccess = (string)TempData["porukaSuccess"];
+    var porukaWarning = (string)TempData["porukaWarning"];
+    var porukaError = (string)TempData["porukaError"];
+    Layout = "~/Areas/KlijentModul/Views/Shared/_Layout.cshtml";
+}
+
+
+    <style>
+        .poruka {
+            width: 100%;
+            height: 250px;
+        }
+    </style>
+
+
+
+
+    <div class="content-wrapper p-4">
+
+        <p class="h4"><i class="fas fa-shopping-cart"></i> Korpa </p>
+        @if (Model == null)
+        {
+            <br /><br />
+            <div class="poruka">
+
+                @if (porukaError != null)
+                {
+                    <div class="alert alert-danger" role="alert" id="porukaBox">
+                        @porukaError
+                    </div>
+                }
+
+                @if (porukaWarning != null)
+                {
+                    <div class="alert alert-warning" role="alert" id="porukaBox">
+                        @porukaWarning
+                    </div>
+                }
+
+                @if (porukaSuccess != null)
+                {
+                    <div class="alert alert-success" role="alert" id="porukaBox">
+                        @porukaSuccess
+                    </div>
+                }
+
+            </div>
+        }
+
+
+        @if (Model != null)
+        {
+            <table class="table table-bordered">
+
+                <thead class="thead-dark">
+                    <tr>
+                        <th>Rbr stavke:</th>
+                        <th>Narudzba: </th>
+                        <th>Softver: </th>
+                        <th>Cijena softvera: </th>
+                        <th>Datum narudzbe: </th>
+                        <th>Akcija</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var x in Model.rows)
+                    {
+                        <tr>
+                            <td>@x.SoftverNarudzbaID</td>
+                            <td>@x.NarudzbaID</td>
+                            <td>@x.NazivSoftvera</td>
+                            <td>@x.CijenaSoftvera</td>
+                            <td>@x.Datum</td>
+                            <td>
+                                <a asp-action="UkloniIzKorpe" asp-controller="Narudzbe" asp-area="KlijentModul" asp-route-id="@x.SoftverID" class="btn btn-outline-danger btn-sm"><i class="fa fa-trash"></i></a>
+
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <a asp-area="KlijentModul" asp-action="Kupi" asp-controller="Narudzbe" asp-route-id="@Model.ID" class="btn btn-outline-success btn-lg">Kupi</a>
+        }
+
+    </div>
+

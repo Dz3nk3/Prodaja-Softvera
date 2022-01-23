@@ -1,0 +1,56 @@
+﻿@using Prodaja_Softvera_ver3.Web.Areas.ZaposlenikModul.ViewModels
+
+@model Prodaja_Softvera_ver3.Web.Areas.ZaposlenikModul.ViewModels.SpecifikacijUrediVM
+@{
+    ViewData["Title"] = "Dodaj";
+}
+
+<h1>Dodaj</h1>
+
+<form asp-action="Snimi">
+
+    <div class="form-group">
+
+        <div>
+            @Html.HiddenFor(s => s.SpecifikacijeID)
+        </div>
+
+        <div class="form-group">
+            <label>Naziv</label>
+            <input asp-for="Naziv" class="form-control" />
+            <span asp-validation-for="Naziv" class="text-danger"></span>
+
+        </div>
+
+
+        <div class="form-group">
+            <label>Hard disk:</label>
+            <input asp-for="HDD" class="form-control" />
+            <span asp-validation-for="HDD" class="text-danger"></span>
+
+        </div>
+
+
+        <div class="form-group">
+            <label>Procesor:</label>
+            <input asp-for="CPU" class="form-control" />
+            <span asp-validation-for="CPU" class="text-danger"></span>
+
+        </div>
+
+        <div class="form-group">
+            <label>Graficka kartica:</label>
+            <input asp-for="GPU" class="form-control" />
+            <span asp-validation-for="GPU" class="text-danger"></span>
+
+        </div>
+        <div class="form-group">
+            <label>Radna memorija:</label>
+            <input asp-for="RAM" class="form-control" />
+            <span asp-validation-for="RAM" class="text-danger"></span>
+
+        </div>
+    </div>
+    <input type="submit" class="btn btn-success btn-lg" value="Snimi" />
+
+</form>

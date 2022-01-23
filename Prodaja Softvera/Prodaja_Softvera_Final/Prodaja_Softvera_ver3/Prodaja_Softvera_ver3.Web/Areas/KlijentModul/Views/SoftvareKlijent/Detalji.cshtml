@@ -1,0 +1,65 @@
+﻿
+@using Prodaja_Softvera_ver3.Web.Areas.KlijentModul.ViewModels
+@model Prodaja_Softvera_ver3.Web.Areas.KlijentModul.ViewModels.SoftvareDodajVM
+
+@{
+    ViewData["Title"] = "Detalji";
+    var porukaSuccess = (string)TempData["porukaSuccess"];
+    var porukaWarning = (string)TempData["porukaWarning"];
+    var porukaError = (string)TempData["porukaError"];
+    Layout = "~/Areas/KlijentModul/Views/Shared/_Layout.cshtml";
+
+
+}
+
+<h1>Detalji</h1>
+
+@if (porukaError != null)
+{
+    <div class="alert alert-danger" role="alert" id="porukaBox">
+        @porukaError
+    </div>
+}
+
+@if (porukaWarning != null)
+{
+    <div class="alert alert-warning" role="alert" id="porukaBox">
+        @porukaWarning
+    </div>
+}
+
+@if (porukaSuccess != null)
+{
+    <div class="alert alert-success" role="alert" id="porukaBox">
+        @porukaSuccess
+    </div>
+}
+
+
+<form class="form-group !important">
+    <div class="form-group !important">
+        <div class="form-group !important">
+            <label>Naziv:</label>
+            <input asp-for="Naziv" class="form-control" readonly />
+
+        </div>
+        <div class="form-group !important">
+            <label>Verzija:</label>
+            <input asp-for="Verzija" class="form-control" readonly />
+
+        </div>
+        <div class="form-group !important">
+            <label>Cijena:</label>
+            <input asp-for="cijena" class="form-control" readonly />
+
+        </div>
+        <div class="form-group !important">
+            <label>Tip softvera:</label>
+            <input asp-for="TipSoftvera" class="form-control" readonly />
+        </div>
+        <div class="form-group !important">
+            <label>Specifikacije:</label>
+            <input asp-for="Specifikacije" class="form-control" readonly />
+        </div>
+    </div>
+</form>

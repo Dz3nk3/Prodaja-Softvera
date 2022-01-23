@@ -1,0 +1,38 @@
+﻿@using Prodaja_Softvera_ver3.Web.Areas.AdministratorModul.ViewModels
+@model Prodaja_Softvera_ver3.Web.Areas.AdministratorModul.ViewModels.FakultetDodajVM
+
+@{
+    ViewData["Title"] = "Dodaj";
+}
+
+<h1>Dodaj</h1>
+
+<h1 class="display-4">Dodaj Fakultet</h1>
+
+<form asp-action="Snimi">
+    <input asp-for="FakultetID" hidden />
+
+    <div class="form-group">
+
+        <div>
+            @Html.HiddenFor(s => s.FakultetID)
+        </div>
+
+        <div class="form-group">
+            <label>Naziv</label>
+            <select asp-for="NazivID" asp-items="@Model.Naziv" class="form-control"></select>
+        </div>
+
+        <div class="form-group">
+            <label>Univerzitet</label>
+            <select asp-for="UniverzitetID" asp-items="@Model.Univerzitet" class="form-control"></select>
+        </div>
+
+
+
+            <input type="submit" class="btn btn-success btn-lg" value="Snimi" />
+
+
+        </div>
+</form>
+

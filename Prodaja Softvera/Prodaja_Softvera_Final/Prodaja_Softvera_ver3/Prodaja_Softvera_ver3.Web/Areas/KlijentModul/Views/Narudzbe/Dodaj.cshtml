@@ -1,0 +1,70 @@
+﻿
+@model Prodaja_Softvera_ver3.Web.Areas.KlijentModul.ViewModels.NarudzbeDodajVM
+
+@{
+    ViewData["Title"] = "Dodaj";
+    var porukaSuccess = (string)TempData["porukaSuccess"];
+    var porukaWarning = (string)TempData["porukaWarning"];
+    var porukaError = (string)TempData["porukaError"];
+}
+
+<h1>Dodaj</h1>
+
+
+@if (porukaError != null)
+{
+    <div class="alert alert-danger" role="alert" id="porukaBox">
+        @porukaError
+    </div>
+}
+
+@if (porukaWarning != null)
+{
+    <div class="alert alert-warning" role="alert" id="porukaBox">
+        @porukaWarning
+    </div>
+}
+
+@if (porukaSuccess != null)
+{
+    <div class="alert alert-success" role="alert" id="porukaBox">
+        @porukaSuccess
+    </div>
+}
+
+<style>
+    .checked {
+        color: orange;
+    }
+</style>
+
+<form class="form-group">
+    <input asp-for="NarudzbaID" hidden />
+    <div class="form-group">
+
+
+
+        @*<div class="form-group">
+            <label>Ocjena:</label>
+            <input asp-for="Ocjena" class="form-control" />
+            <button type="button"> <span class="fa fa-star checked"></span></button>
+            <button type="button"> <span class="fa fa-star checked"></span></button>
+            <button type="button"> <span class="fa fa-star checked"></span></button>
+            <button type="button"> <span class="fa fa-star"></span></button>
+
+
+        </div>*@
+
+        @*<div class="form-group">
+            <label>Ostavite vas komentar:</label>
+            <textarea asp-for="Komentar" class="form-control"></textarea>
+
+        </div>*@
+
+
+      
+
+
+        <a asp-action="Snimi" asp-route-id="@Model.NarudzbaID" class="btn btn-primary">Dalje</a>
+    </div>
+</form>

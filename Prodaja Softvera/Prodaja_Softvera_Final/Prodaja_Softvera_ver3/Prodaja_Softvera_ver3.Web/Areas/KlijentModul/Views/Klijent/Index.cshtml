@@ -1,0 +1,103 @@
+﻿
+@using Prodaja_Softvera_ver3.Web.Areas.KlijentModul.ViewModels
+@model Prodaja_Softvera_ver3.Web.ViewModels.KlijentUrediViewModel
+
+@{
+    ViewData["Title"] = "Index";
+    var porukaSuccess = (string)TempData["porukaSuccess"];
+    var porukaWarning = (string)TempData["porukaWarning"];
+    var porukaError = (string)TempData["porukaError"];
+    Layout = "~/Areas/KlijentModul/Views/Shared/_Layout.cshtml";
+
+
+
+}
+
+<h1>Uredi</h1>
+
+
+@if (porukaError != null)
+{
+    <div class="alert alert-danger" role="alert" id="porukaBox">
+        @porukaError
+    </div>
+}
+
+@if (porukaWarning != null)
+{
+    <div class="alert alert-warning" role="alert" id="porukaBox">
+        @porukaWarning
+    </div>
+}
+
+@if (porukaSuccess != null)
+{
+    <div class="alert alert-success" role="alert" id="porukaBox">
+        @porukaSuccess
+    </div>
+}
+
+
+
+
+
+<form asp-action="Snimi">
+    <input asp-for="KlijentID" hidden />
+
+
+    <div class="form-group">
+
+
+
+        <div class="form-group">
+            <label>Ime:</label>
+            <input asp-for="Ime" class="form-control" />
+
+        </div>
+
+        <div class="form-group">
+            <label>Prezime:</label>
+            <input asp-for="Prezime" class="form-control" />
+
+        </div>
+
+
+
+        <div class="form-group">
+            <label>Email:</label>
+            <input asp-for="Email" class="form-control" />
+
+        </div>
+
+        <div class="form-group">
+            <label>Kontakt broj:</label>
+            <input asp-for="Kontakt_broj" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label>Datum rodjenja:</label>
+            <input asp-for="Datum_rodjenja" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label>Grad:</label>
+            <select asp-for="GradID" asp-items="@Model.Grad" class="form-control"></select>
+        </div>
+
+        <div class="form-group">
+            <label>Broj kartice:</label>
+            <select asp-for="KarticaID" asp-items="@Model.Kartica" class="form-control"></select>
+
+        </div>
+
+
+        @*<div class="form-group">
+            <label>Tip korisnickog naloga:</label>
+            <select asp-for="KorisnickiNalogID" asp-items="@Model.KorisnickiNalog" class="form-control"></select>
+
+
+        </div>*@
+
+        <input type="submit" class="btn btn-primary" value="Snimi" />
+    </div>
+</form>

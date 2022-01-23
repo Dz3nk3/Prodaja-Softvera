@@ -1,0 +1,87 @@
+﻿@model Prodaja_Softvera_ver3.Web.Areas.AdministratorModul.ViewModels.ZaposlenikUrediViewModel
+@using Prodaja_Softvera_ver3.Web.Areas.AdministratorModul.ViewModels;
+@using Prodaja_Softvera_ver3.Data.EntityModels;
+
+
+@{
+    ViewData["Title"] = "Index";
+
+}
+
+<div class="content-wrapper p-4">
+    <h1 class="display-4">Postavke profila</h1>
+
+    <form asp-action="Snimi">
+        <input asp-for="ZaposlenikID" hidden />
+
+        <div class="form-group">
+
+            <div class="form-group">
+                <label>Ime</label>
+                <input asp-for="Ime" class="form-control" />
+                <span asp-validation-for="Ime" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label>Prezime</label>
+                <input asp-for="Prezime" class="form-control" />
+                <span asp-validation-for="Prezime" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label>Email</label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+
+            </div>
+
+            <div class="form-group">
+                <label>Kontakt broj</label>
+                <input asp-for="Kontakt_br" class="form-control" />
+                <span asp-validation-for="Kontakt_br" class="text-danger"></span>
+
+            </div>
+
+            <div class="form-group">
+                <label>Datum rodjenja</label>
+                <input asp-for="Datum_rodjenja" class="form-control" />
+                <span asp-validation-for="Datum_rodjenja" class="text-danger"></span>
+
+            </div>
+
+            <div class="form-group">
+                <label>Grad </label>
+                <select asp-for="GradID" asp-items="Model.Grad" class="form-control"></select>
+                <span asp-validation-for="GradID" class="text-danger"></span>
+
+            </div>
+
+
+            <div class="form-group">
+                <label>Fakultet </label>
+                <select asp-for="FakultetID" asp-items="Model.Fakultet" class="form-control"></select>
+                <span asp-validation-for="FakultetID" class="text-danger"></span>
+
+            </div>
+
+
+            <div class="form-group">
+                <label>Tip zaposlenika </label>
+                <select asp-for="TipZaposlenikaID" asp-items="Model.TipZaposlenika" class="form-control"></select>
+                <span asp-validation-for="TipZaposlenikaID" class="text-danger"></span>
+
+            </div>
+
+
+            <div class="form-group">
+                <label>Tip korisnickog naloga </label>
+                <select asp-for="KorisnickiNalogID" asp-items="Model.KorisnickiNalog" class="form-control"></select>
+                <span asp-validation-for="KorisnickiNalogID" class="text-danger"></span>
+
+            </div>
+
+            <input type="submit" class="btn btn-success btn-lg" value="Snimi" />
+
+        </div>
+    </form>
+</div>

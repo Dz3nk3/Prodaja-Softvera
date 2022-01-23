@@ -1,0 +1,3 @@
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp2.2\Prodaja_Softvera_ver3.Web.csprojAssemblyReference.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp2.2\Prodaja_Softvera_ver3.Web.AssemblyInfoInputs.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp2.2\Prodaja_Softvera_ver3.Web.AssemblyInfo.cs

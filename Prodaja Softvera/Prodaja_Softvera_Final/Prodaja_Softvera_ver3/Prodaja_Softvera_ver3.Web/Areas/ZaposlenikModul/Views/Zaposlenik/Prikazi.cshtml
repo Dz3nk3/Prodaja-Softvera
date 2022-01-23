@@ -1,0 +1,104 @@
+﻿@using  Prodaja_Softvera_ver3.Web.ViewModels;
+@model ZaposlenikPrikaziVM
+@{
+    ViewData["Title"] = "Prikazi";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var porukaSuccess = (string)TempData["porukaSuccess"];
+    var porukaWarning = (string)TempData["porukaWarning"];
+    var porukaError = (string)TempData["porukaError"];
+    Layout = "~/Areas/ZaposlenikModul/Views/Shared/_Layout.cshtml";
+
+}
+
+@if (porukaError != null)
+{
+    <div class="alert alert-danger" role="alert" id="porukaBox">
+        @porukaError
+    </div>
+}
+
+@if (porukaWarning != null)
+{
+    <div class="alert alert-warning" role="alert" id="porukaBox">
+        @porukaWarning
+    </div>
+}
+
+@if (porukaSuccess != null)
+{
+    <div class="alert alert-success" role="alert" id="porukaBox">
+        @porukaSuccess
+    </div>
+}
+
+
+
+<div class="content-wrapper p-2">
+    <h1 class="display-4">Prikaži zaposlenike</h1><br /><br />
+    <table class="table" @*class="table table-hover table-danger"*@>
+        <thead class="thead-dark">
+            <tr>
+                <th>Naziv</th>
+                <th>Email</th>
+                <th>Kontakt broj</th>
+                <th>Datum rođenja</th>
+                <th>Spol</th>
+                <th>Grad</th>
+                <th>Fakultet</th>
+                <th>Tip zaposlenika</th>
+                <th>Broj softvera</th>
+                <th>Akcija</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (ZaposlenikPrikaziViewModel x in Model.podaciZaHtmlTabelu)
+            {
+                <tr>
+                    <td>@x.Naziv</td>
+                    <td>@x.Email</td>
+                    <td>@x.Kontakt_br</td>
+                    <td>@x.Datum_rodjenja</td>
+                    <td>@x.Spol</td>
+                    <td>
+                        @if (x.Grad == null)
+                        {
+                            <label> Nema zapisa</label>
+                        }
+                        else
+                        {
+                            <label>@x.Grad</label>
+                        }
+                    </td>
+                    <td>
+                        @if (x.Fakultet == null)
+                        {
+                            <label>Nema zapisa</label>
+                        }
+                        else
+                        {
+                            <label>@x.Fakultet</label>
+                        }
+                    </td>
+                    <td>
+                        @if (x.TipZaposlenika == null)
+                        {
+                            <label>Nema zapisa</label>
+                        }
+                        else
+                        {
+                            <label>@x.TipZaposlenika</label>
+                        }
+                    </td>
+                    <td>@x.BrojSoftvera</td>
+                    <td>
+                        <a asp-action="Obrisi" asp-controller="Zaposlenik" asp-route-id="@x.ZaposlenikID" class="btn btn-danger">Obriši</a>
+                        <a asp-action="UrediForm" asp-controller="Zaposlenik" asp-route-id="@x.ZaposlenikID" class="btn btn-primary">Uredi</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a asp-action="DodajForm" asp-controller="Zaposlenik" class="btn btn-success btn-lg">Dodaj novog zaposlenika</a>
+
+</div>

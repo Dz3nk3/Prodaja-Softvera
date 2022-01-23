@@ -1,0 +1,50 @@
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.deps.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.AssemblyInfoInputs.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.AssemblyInfo.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.csprojAssemblyReference.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.runtimeconfig.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.runtimeconfig.dev.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.pdb
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.pdb
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.deps.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.runtimeconfig.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.runtimeconfig.dev.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.pdb
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.csprojAssemblyReference.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.AssemblyInfoInputs.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.AssemblyInfo.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.pdb
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.deps.json
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.pdb
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.pdb
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.csprojAssemblyReference.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.AssemblyInfoInputs.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.AssemblyInfo.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.pdb
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.deps.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.runtimeconfig.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.runtimeconfig.dev.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.pdb
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.deps.json
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.pdb
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Data\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.pdb

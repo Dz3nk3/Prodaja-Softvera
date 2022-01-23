@@ -1,0 +1,1077 @@
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.exe
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.deps.json
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.runtimeconfig.json
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.runtimeconfig.dev.json
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.dll
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.pdb
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.Views.dll
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.Views.pdb
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\staticwebassets\Prodaja_Softvera_ver3.Web.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\staticwebassets\Prodaja_Softvera_ver3.Web.StaticWebAssets.xml
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.AssemblyInfo.cs
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.TagHelpers.input.cache
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.TagHelpers.output.cache
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorCoreGenerate.cache
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.Views.pdb
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.dll
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.pdb
+C:\Users\User\source\repos\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.csproj.CopyComplete
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.csprojAssemblyReference.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\staticwebassets\Prodaja_Softvera_ver3.Web.StaticWebAssets.Manifest.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\staticwebassets\Prodaja_Softvera_ver3.Web.StaticWebAssets.xml
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorAssemblyInfo.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorAssemblyInfo.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.AssemblyInfoInputs.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.AssemblyInfo.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.TagHelpers.input.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.TagHelpers.output.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorCoreGenerate.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorTargetAssemblyInfo.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorTargetAssemblyInfo.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.Views.pdb
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.pdb
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\appsettings.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.exe
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.deps.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.runtimeconfig.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.runtimeconfig.dev.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.pdb
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.Views.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.Views.pdb
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.pdb
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.csproj.CopyComplete
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Klijent\Prikazi.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Klijent\UrediForm.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Zaposlenik\Prikazi.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Zaposlenik\UrediForm.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Analiza\Prikazi.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Analiza\UrediForm.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Softver\Prikazi.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Softver\UrediForm.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Shared\_Layout.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\_ViewImports.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\_ViewStart.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Shared\_Layout.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\_ViewImports.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\_ViewStart.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\appsettings.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.exe
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.deps.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.runtimeconfig.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.runtimeconfig.dev.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.pdb
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.Views.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.Views.pdb
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.pdb
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.csprojAssemblyReference.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\staticwebassets\Prodaja_Softvera_ver3.Web.StaticWebAssets.Manifest.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\staticwebassets\Prodaja_Softvera_ver3.Web.StaticWebAssets.xml
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorAssemblyInfo.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorAssemblyInfo.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.AssemblyInfoInputs.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.AssemblyInfo.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.TagHelpers.input.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.TagHelpers.output.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorCoreGenerate.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Klijent\Prikazi.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Klijent\UrediForm.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Shared\_Layout.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\_ViewImports.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\_ViewStart.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Analiza\Prikazi.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Analiza\UrediForm.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Shared\_Layout.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Softver\Prikazi.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Softver\UrediForm.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Zaposlenik\Prikazi.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Zaposlenik\UrediForm.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\_ViewImports.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\_ViewStart.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorTargetAssemblyInfo.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorTargetAssemblyInfo.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.Views.pdb
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.csproj.CopyComplete
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.pdb
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Privacy.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Autentifikacija\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutGuest.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\AdminZaposlenik\DodajForm.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\AdminZaposlenik\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\AdminZaposlenik\UrediForm.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\Fakultet\Dodaj.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\Fakultet\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\Klijent\Dodaj.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\Klijent\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\Klijent\Uredi.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\Shared\_Layout.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\TipZaposlenika\Dodaj.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\TipZaposlenika\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\_ViewImports.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\_ViewStart.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Narudzbe\Dodaj.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Narudzbe\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Narudzbe\Uredi.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Racun\Dodaj.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Racun\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\SoftvareKlijent\Detalji.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\SoftvareKlijent\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\SoftvareKlijent\Search.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Analiza\DodajForm.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\KlijentController2\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\KlijentController2\Uredi.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Narudzba\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Softver\DodajForm.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Specifikacija\Dodaj.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Specifikacija\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Specifikacija\Uredi.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\TipSoftvera\Dodaj.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\TipSoftvera\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Zaposlenik\DodajForm.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Templejt4\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Klijent\Uredi.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.exe
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.deps.json
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.pdb
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.Views.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.Views.pdb
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.pdb
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\staticwebassets\Prodaja_Softvera_ver3.Web.StaticWebAssets.Manifest.cache
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\staticwebassets\Prodaja_Softvera_ver3.Web.StaticWebAssets.xml
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorAssemblyInfo.cache
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorAssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.TagHelpers.input.cache
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.TagHelpers.output.cache
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorCoreGenerate.cache
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\AdminZaposlenik\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\Fakultet\Dodaj.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\Fakultet\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\Klijent\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\TipZaposlenika\Dodaj.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\TipZaposlenika\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Klijent\Prikazi.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Klijent\Uredi.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Klijent\UrediForm.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Narudzbe\Dodaj.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Narudzbe\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Narudzbe\Uredi.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Racun\Dodaj.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Racun\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\SoftvareKlijent\Detalji.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\SoftvareKlijent\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\SoftvareKlijent\Search.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Analiza\DodajForm.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Analiza\Prikazi.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Analiza\UrediForm.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\KlijentController2\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\KlijentController2\Uredi.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Narudzba\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Softver\DodajForm.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Softver\Prikazi.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Softver\UrediForm.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Specifikacija\Dodaj.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Specifikacija\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Specifikacija\Uredi.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\TipSoftvera\Dodaj.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\TipSoftvera\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Zaposlenik\DodajForm.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Zaposlenik\Prikazi.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Zaposlenik\UrediForm.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Privacy.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutGuest.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorTargetAssemblyInfo.cache
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorTargetAssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.Views.pdb
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.pdb
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Optivem.Framework.Core.All.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Optivem.Framework.Core.Application.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Optivem.Framework.Core.Application.Interface.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Optivem.Framework.Core.Common.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Optivem.Framework.Core.Domain.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Optivem.Framework.Infrastructure.FluentValidation.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Autentifikacija\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\AdminZaposlenik\Dodaj.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\AdminZaposlenik\Uredi.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\Klijent\Detalji.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\AdminSoftver\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cloudscribe.Pagination.Models.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cloudscribe.Web.Pagination.dll
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PaginationPartial.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\AdminSoftver\Detalji.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\PostavkeProfila\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\PostavkeProfila\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Registracija\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Cart\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\SoftvareKlijent\Kupi.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.csprojAssemblyReference.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\staticwebassets\Prodaja_Softvera_ver3.Web.StaticWebAssets.Manifest.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\staticwebassets\Prodaja_Softvera_ver3.Web.StaticWebAssets.xml
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorAssemblyInfo.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorAssemblyInfo.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.AssemblyInfoInputs.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.AssemblyInfo.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.pdb
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.TagHelpers.input.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.TagHelpers.output.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorCoreGenerate.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\AdminSoftver\Detalji.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\AdminSoftver\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\AdminZaposlenik\Dodaj.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\AdminZaposlenik\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\AdminZaposlenik\Uredi.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\Fakultet\Dodaj.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\Fakultet\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\Klijent\Detalji.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\Klijent\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\PostavkeProfila\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\Shared\_Layout.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\TipZaposlenika\Dodaj.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\TipZaposlenika\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\_ViewImports.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\_ViewStart.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Narudzbe\Dodaj.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Narudzbe\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Narudzbe\Uredi.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Racun\Dodaj.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Racun\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Shared\_Layout.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\SoftvareKlijent\Detalji.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\SoftvareKlijent\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\SoftvareKlijent\Kupi.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\SoftvareKlijent\Search.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\_ViewImports.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\_ViewStart.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Analiza\Prikazi.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Analiza\UrediForm.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\KlijentController2\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Narudzba\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\PostavkeProfila\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Shared\_Layout.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Softver\DodajForm.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Softver\Prikazi.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Softver\UrediForm.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Specifikacija\Dodaj.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Specifikacija\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Specifikacija\Uredi.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\TipSoftvera\Dodaj.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\TipSoftvera\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Zaposlenik\DodajForm.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Zaposlenik\Prikazi.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Zaposlenik\UrediForm.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\_ViewImports.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\_ViewStart.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Autentifikacija\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Registracija\Index.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Privacy.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutGuest.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PaginationPartial.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorTargetAssemblyInfo.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorTargetAssemblyInfo.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\appsettings.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.exe
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.deps.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.runtimeconfig.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.runtimeconfig.dev.json
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.pdb
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.Views.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.Views.pdb
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cloudscribe.Pagination.Models.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cloudscribe.Web.Pagination.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Optivem.Framework.Core.All.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Optivem.Framework.Core.Application.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Optivem.Framework.Core.Application.Interface.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Optivem.Framework.Core.Common.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Optivem.Framework.Core.Domain.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Optivem.Framework.Infrastructure.FluentValidation.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.pdb
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.Views.pdb
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.csproj.CopyComplete
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\jose-jwt.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Nexmo.Api.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Syncfusion.Compression.Portable.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Syncfusion.Pdf.Portable.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Google.Authenticator.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\QRCoder.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Autentifikacija\PotvrdiIndex.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\KlijentController2\Detalji.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Analiza\Dodaj.cshtml.g.cs
+E:\FIT\2.Razvoj Softvera I\SEMINARSKI\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Klijent\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\staticwebassets\Prodaja_Softvera_ver3.Web.StaticWebAssets.Manifest.cache
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\staticwebassets\Prodaja_Softvera_ver3.Web.StaticWebAssets.xml
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorAssemblyInfo.cache
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorAssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.pdb
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.exe
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.deps.json
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.pdb
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.Views.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.Views.pdb
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cloudscribe.Pagination.Models.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cloudscribe.Web.Pagination.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Google.Authenticator.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\jose-jwt.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Nexmo.Api.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Optivem.Framework.Core.All.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Optivem.Framework.Core.Application.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Optivem.Framework.Core.Application.Interface.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Optivem.Framework.Core.Common.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Optivem.Framework.Core.Domain.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Optivem.Framework.Infrastructure.FluentValidation.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\QRCoder.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Syncfusion.Compression.Portable.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Syncfusion.Pdf.Portable.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.dll
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\bin\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Data.pdb
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.TagHelpers.input.cache
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.TagHelpers.output.cache
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorCoreGenerate.cache
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\AdminSoftver\Detalji.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\AdminSoftver\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\AdminZaposlenik\Dodaj.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\AdminZaposlenik\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\AdminZaposlenik\Uredi.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\Fakultet\Dodaj.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\Fakultet\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\Klijent\Detalji.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\Klijent\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\PostavkeProfila\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\TipZaposlenika\Dodaj.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\TipZaposlenika\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\AdministratorModul\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Klijent\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Narudzbe\Dodaj.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Narudzbe\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Narudzbe\Uredi.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Racun\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Racun\OcjeniKomentarisi.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\SoftvareKlijent\Detalji.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\SoftvareKlijent\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\SoftvareKlijent\Kupi.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\SoftvareKlijent\Search.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\KlijentModul\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Analiza\Dodaj.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Analiza\Prikazi.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Analiza\UrediForm.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\KlijentController2\Detalji.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\KlijentController2\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Narudzba\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\PostavkeProfila\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Softver\DodajForm.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Softver\Prikazi.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Softver\UrediForm.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Specifikacija\Dodaj.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Specifikacija\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Specifikacija\Uredi.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\TipSoftvera\Dodaj.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\TipSoftvera\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Zaposlenik\DodajForm.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Zaposlenik\Prikazi.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\Zaposlenik\UrediForm.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Areas\ZaposlenikModul\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Autentifikacija\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Autentifikacija\PotvrdiIndex.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Registracija\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Privacy.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutGuest.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PaginationPartial.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorTargetAssemblyInfo.cache
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.RazorTargetAssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.Views.pdb
+C:\Users\User\OneDrive\Desktop\Prodaja Softvera\Prodaja_Softvera_verzija3 NOVO\Prodaja_Softvera_ver3\Prodaja_Softvera_ver3.Web\obj\Debug\netcoreapp3.1\Prodaja_Softvera_ver3.Web.csproj.CopyComplete

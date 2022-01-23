@@ -1,0 +1,134 @@
+﻿@model Prodaja_Softvera_ver3.Web.Areas.KlijentModul.ViewModels.RacunDodajVM
+@{
+    ViewData["Title"] = "Uredi";
+
+}
+
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+
+<script type="text/javascript">
+    function CReateOut(Ocjena) {
+        for (var i = 1; i <= Ocjena; i++) {
+            $("#span" + i).attr('class', 'glyphicon glyphicon-star-empty');
+        }
+    }
+
+    function CReateOver(Ocjena) {
+        for (var i = 1; i <= Ocjena; i++) {
+            $("#span" + i).attr('class', 'glyphicon glyphicon-star');
+        }
+    }
+
+    function CRateClick(Ocjena) {
+        $("#lblRating").val(Ocjena);
+        for (var i = 1; i <= Ocjena; i++) {
+            $("#span" + i).attr('class', 'glyphicon glyphicon-star');
+        }
+        for (var i = Ocjena + 1; i <= 5; i++) {
+            $("#span" + i).attr('class', 'glyphicon glyphicon-star-empty');
+        }
+    }
+
+    function CRateSelected(Ocjena) {
+        var Ocjena = $("#lblRating").val();
+        for (var i = 1; i <= Ocjena; i++) {
+            $("#span" + i).attr('class', 'glyphicon glyphicon-star');
+        }
+    }
+
+</script>
+
+
+<h1>Komentarisi i ocjeni</h1>
+
+
+@*@using (Html.BeginForm("Snimi", "Racun", FormMethod.Post, new { onsubmit = "return Index" }))
+{*@
+
+<form class="form-group" asp-action="Snimi">
+
+    <div class="form-group">
+        <br /><br />
+
+        <div onmouseout="CRateSelected()">
+            <span id="span1" onmouseout="CReateOut(1)" onmouseover="CReateOver(1)" onclick="CRateClick(1)" class="glyphicon glyphicon-star-empty"></span>
+            <span id="span2" onmouseout="CReateOut(2)" onmouseover="CReateOver(2)" onclick="CRateClick(2)" class="glyphicon glyphicon-star-empty"></span>
+            <span id="span3" onmouseout="CReateOut(3)" onmouseover="CReateOver(3)" onclick="CRateClick(3)" class="glyphicon glyphicon-star-empty"></span>
+            <span id="span4" onmouseout="CReateOut(4)" onmouseover="CReateOver(4)" onclick="CRateClick(4)" class="glyphicon glyphicon-star-empty"></span>
+            <span id="span5" onmouseout="CReateOut(5)" onmouseover="CReateOver(5)" onclick="CRateClick(5)" class="glyphicon glyphicon-star-empty"></span>
+        </div>
+
+        <br />
+
+        <div>
+            <input asp-for="Ocjena" type="hidden" id="lblRating" />
+        </div>
+
+        <br />
+
+        <div class="form-group">
+            <label>Komentarisi:</label>
+            <textarea asp-for="Komentar" class="form-control" placeholder="Komentar..."></textarea>
+
+        </div>
+
+        <br /><br />
+
+        <input asp-for="ID" hidden />
+        <input asp-for="SoftverID" hidden />
+        <input asp-for="SoftverNarudzbaID" hidden />
+
+        <input type="submit" class="btn btn-primary" value="Snimi" />
+    </div>
+
+</form>
+
+@*}*@
+
+
+
+
+
+@*
+
+    <form class="form-group">
+            <input asp-for="ID" hidden />
+            <div class="form-group">
+
+
+                <br /><br />
+                <br /><br />
+
+
+                <div class="form-group">
+                    <label>Ocjena:</label>
+                    <input asp-for="Ocjena" class="form-control">
+
+                    @for (int i = 0; i < Model.Ocjena; i++)
+                    {
+                        <span class="glyphicon glyphicon-star"></span>
+                    }
+
+                    @for (int i = Model.Ocjena; i < 5; i++)
+                    {
+                        <span class="glyphicon glyphicon-star-empty"></span>
+                    }
+
+                </div>
+
+                <br /><br />
+
+
+                <div class="form-group">
+                    <label>Komentarisi:</label>
+                    <textarea asp-for="Komentar" class="form-control" placeholder="Komentar..."></textarea>
+
+                </div>
+
+
+
+                <button type="submit" value="Snimi" class="btn btn-primary">Spremi</button>
+            </div>
+        </form>
+*@

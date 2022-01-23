@@ -1,0 +1,67 @@
+﻿ 
+@using Prodaja_Softvera_ver3.Web.Areas.AdministratorModul.ViewModels
+
+@{
+    ViewData["Title"] = "Index";
+    var porukaSuccess = (string)TempData["porukaSuccess"];
+    var porukaWarning = (string)TempData["porukaWarning"];
+    var porukaError = (string)TempData["porukaError"];
+    Layout = "~/Areas/KlijentModul/Views/Shared/_Layout.cshtml";
+
+}
+
+
+<h1>Index</h1>
+
+@if (porukaError != null)
+{
+    <div class="alert alert-danger" role="alert" id="porukaBox">
+        @porukaError
+    </div>
+}
+
+@if (porukaWarning != null)
+{
+    <div class="alert alert-warning" role="alert" id="porukaBox">
+        @porukaWarning
+    </div>
+}
+
+@if (porukaSuccess != null)
+{
+    <div class="alert alert-success" role="alert" id="porukaBox">
+        @porukaSuccess
+    </div>
+}
+
+
+<h1 class="display-4">Prikaz Fakulteta:</h1>
+
+<table class="table table-hover">
+    <thead class="thead-dark">
+        <tr>
+            <th>FakultetID</th>
+            <th>Naziv</th>
+            <th>Univerzitet</th>
+           
+            <th>Akcija</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var x in Model.row)
+        {
+        <tr>
+            <td>@x.FakultetID</td>
+            <td>@x.Naziv</td>
+            <td>@x.Univerzitet</td>
+            <td>
+                <a asp-action="Brisi" asp-controller="Fakultet" asp-route-id="@x.FakultetID" class="btn btn-danger">Obrisi</a>
+                <br /><br />
+                @*<a asp-action="UrediForm" asp-controller="Fakultet" asp-route-id="@x.FakultetID" class="btn btn-primary">Uredi</a>*@
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Dodaj" asp-controller="Fakultet" asp-route-id="@Model.ID" class="btn btn-primary">Dodaj zaposlenika</a>

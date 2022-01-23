@@ -1,0 +1,75 @@
+﻿@using Prodaja_Softvera_ver3.Web.Areas.ZaposlenikModul.ViewModels
+@using Prodaja_Softvera_ver3.Data.EntityModels;
+@model Prodaja_Softvera_ver3.Web.Areas.ZaposlenikModul.ViewModels.KlijentUrediVM
+
+@{
+    ViewData["Title"] = "Detalji";
+}
+
+    <div class="content-wrapper p-4">
+
+        <p class="h1"> Detalji o klijentu </p>
+
+        <form asp-action="Snimi">
+            <input asp-for="KlijentID" hidden />
+
+            <div class="form-group">
+
+                <div class="form-group">
+                    <label>Ime i prezime</label>
+                    <input asp-for="Ime" class="form-control" readonly />
+                    <span asp-validation-for="Ime" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label>Prezime</label>
+                    <input asp-for="Prezime" class="form-control" readonly />
+                    <span asp-validation-for="Prezime" class="text-danger"></span>
+
+                </div>
+
+
+                <div class="form-group">
+                    <label>Email</label>
+                    <input asp-for="Email" class="form-control" readonly />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+
+                </div>
+
+                <div class="form-group">
+                    <label>Kontakt broj</label>
+                    <input asp-for="Kontakt_broj" class="form-control" readonly />
+                    <span asp-validation-for="Kontakt_broj" class="text-danger"></span>
+
+                </div>
+
+                <div class="form-group">
+                    <label>Datum rodjenja</label>
+                    <input asp-for="Datum_rodjenja" class="form-control" readonly />
+                    <span asp-validation-for="Datum_rodjenja" class="text-danger"></span>
+
+                </div>
+
+                <div class="form-group">
+                    <label>Grad</label>
+                    <input asp-for="Grad" class="form-control" readonly />
+                    <span asp-validation-for="Grad" class="text-danger"></span>
+
+                </div>
+
+                <div class="form-group">
+                    <label>Broj kartice</label>
+                    <input asp-for="BrojKartice" class="form-control" readonly />
+                    <span asp-validation-for="BrojKartice" class="text-danger"></span>
+                </div>
+
+                <a asp-action="Index" asp-controller="KlijentController2" asp-area="ZaposlenikModul" class="btn btn-outline-danger btn-lg">Nazad</a>
+
+
+
+            </div>
+        </form>
+
+    </div>
+
+

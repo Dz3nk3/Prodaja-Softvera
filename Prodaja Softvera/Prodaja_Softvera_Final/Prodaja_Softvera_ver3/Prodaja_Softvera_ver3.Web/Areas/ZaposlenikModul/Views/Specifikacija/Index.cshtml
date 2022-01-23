@@ -1,0 +1,69 @@
+﻿
+@using Prodaja_Softvera_ver3.Web.Areas.ZaposlenikModul.ViewModels
+
+@{
+    ViewData["Title"] = "Index";
+    var porukaSuccess = (string)TempData["porukaSuccess"];
+    var porukaWarning = (string)TempData["porukaWarning"];
+    var porukaError = (string)TempData["porukaError"];
+    Layout = "~/Areas/ZaposlenikModul/Views/Shared/_Layout.cshtml";
+
+}
+
+<h1>Prikaz Specifikacije</h1>
+
+@if (porukaError != null)
+{
+    <div class="alert alert-danger" role="alert" id="porukaBox">
+        @porukaError
+    </div>
+}
+
+@if (porukaWarning != null)
+{
+    <div class="alert alert-warning" role="alert" id="porukaBox">
+        @porukaWarning
+    </div>
+}
+
+@if (porukaSuccess != null)
+{
+    <div class="alert alert-success" role="alert" id="porukaBox">
+        @porukaSuccess
+    </div>
+}
+
+
+
+<table class="table table-hover">
+    <thead class="thead-dark">
+        <tr>
+            <th>Naziv</th>
+            <th>OS</th>
+            <th>HDD</th>
+            <th>CPU</th>
+            <th>GPU</th>
+            <th>RAM</th>
+            <th>Akcija</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var x in Model.rows)
+        {
+            <tr>
+                <td>@x.Naziv</td>
+                <td>@x.OS</td>
+                <td>@x.HDD</td>
+                <td>@x.CPU</td>
+                <td>@x.GPU</td>             
+                <td>@x.RAM</td>             
+                <td>
+                    <a asp-action="Obrisi" asp-controller="Specifikacija" asp-route-id="@x.SpecifikacijeID" class="btn btn-danger">Obriši</a>
+                    <a asp-action="Uredi" asp-controller="Specifikacija" asp-route-id="@x.SpecifikacijeID" class="btn btn-primary">Uredi</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@*<a asp-action="Dodaj" asp-controller="Specifikacija" class="btn btn-primary">Dodaj specifikaciju</a>*@

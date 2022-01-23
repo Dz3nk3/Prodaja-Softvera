@@ -1,0 +1,99 @@
+﻿@using Prodaja_Softvera_ver3.Web.Areas.AdministratorModul.ViewModels
+
+@{
+    ViewData["Title"] = "Index";
+    var porukaSuccess = (string)TempData["porukaSuccess"];
+    var porukaWarning = (string)TempData["porukaWarning"];
+    var porukaError = (string)TempData["porukaError"];
+
+    Layout = "~/Areas/AdministratorModul/Views/Shared/_Layout.cshtml";
+}
+
+
+
+    <div class="content-wrapper p-4">
+
+        @if (porukaError != null)
+        {
+            <div class="alert alert-danger" role="alert" id="porukaBox">
+                @porukaError
+            </div>
+        }
+
+        @if (porukaWarning != null)
+        {
+            <div class="alert alert-warning" role="alert" id="porukaBox">
+                @porukaWarning
+            </div>
+        }
+
+        @if (porukaSuccess != null)
+        {
+            <div class="alert alert-success" role="alert" id="porukaBox">
+                @porukaSuccess
+            </div>
+        }
+
+        <h1 class="display-4">Prikaz zaposlenika:</h1>
+        <table class="table table-hover">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Naziv</th>
+                    <th>Email</th>
+                    <th>Tip zaposlenika</th>
+                    <th>Datum rodjenja</th>
+                    <th>Spol</th>
+                    <th>Kontakt broj</th>
+                    <th>Fakultet</th>
+                    <th>Grad</th>
+                    <th>Korisnicki nalog</th>
+                    <th>Akcija</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var x in Model.rows)
+                {
+                    <tr>
+                        <td>@x.Naziv</td>
+                        <td>@x.Email</td>
+                        <td>
+                            @if (x.TipZaposlenika == null)
+                            {
+                                <label> Nema zapisa</label>
+                            }
+                            else
+                            {
+                                <label>@x.TipZaposlenika</label>
+                            }
+                        </td>
+
+                        <td>@x.Datum_rodjenja</td>
+                        <td>@x.Spol</td>
+                        <td>@x.Kontakt_br</td>
+                        <td>
+                            @if (x.Fakultet == null)
+                            {
+                                <label>Nema zapisa</label>
+                            }
+                            else
+                            {
+                                <label>@x.Fakultet</label>
+                            }
+                        </td>
+                        <td>@x.Grad</td>
+                        <td>@x.KorisnickiNalog</td>
+                        <td>
+                            <a asp-action="Obrisi" asp-controller="AdminZaposlenik" asp-area="AdministratorModul" asp-route-id="@x.ZaposlenikID" class="btn btn-outline-danger btn-sm"><i class="fa fa-trash"></i></a>
+                            <br /><br />
+                            <a asp-action="Uredi" asp-controller="AdminZaposlenik" asp-area="AdministratorModul" asp-route-id="@x.ZaposlenikID" class="btn btn-outline-primary btn-sm"><i class="fa fa-pen"></i></a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <a asp-action="Dodaj" asp-controller="AdminZaposlenik" asp-area="AdministratorModul" class="btn btn-outline-success btn-lg"> Dodaj zaposlenika </a>
+
+
+    </div>
+

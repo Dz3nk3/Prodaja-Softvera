@@ -1,0 +1,61 @@
+﻿@using Prodaja_Softvera_ver3.Web.Areas.AdministratorModul.ViewModels
+
+@model Prodaja_Softvera_ver3.Web.Areas.AdministratorModul.ViewModels.KlijentDetaljiVM
+
+@{
+    ViewData["Title"] = "Detalji";
+    Layout = "~/Areas/AdministratorModul/Views/Shared/_Layout.cshtml";
+
+}
+
+
+<div class="content-wrapper p-4">
+
+    <h1 class="display-4">Uredi Zaposlenika</h1>
+
+    <form>
+        <input asp-for="KlijentID" hidden />
+
+        <div class="form-group">
+
+            <div class="form-group">
+                <label>Naziv</label>
+                <input asp-for="Naziv" class="form-control" readonly />
+                <span asp-validation-for="Naziv" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label>Email</label>
+                <input asp-for="Email" class="form-control" readonly />
+                <span asp-validation-for="Email" class="text-danger"></span>
+
+            </div>
+            <div class="form-group">
+                <label>Kontakt broj</label>
+                <input asp-for="Kontakt_broj" class="form-control" readonly />
+                <span asp-validation-for="Kontakt_broj" class="text-danger"></span>
+
+            </div>
+            <div class="form-group">
+                <label>Datum rodjenja</label>
+                <input asp-for="Datum_rodjenja" class="form-control" readonly />
+                <span asp-validation-for="Datum_rodjenja" class="text-danger"></span>
+
+            </div>
+            <div class="form-group">
+                <label>Grad</label>
+                <input asp-for="Grad" class="form-control" readonly />
+                <span asp-validation-for="Grad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>Broj kartice</label>
+                <input asp-for="BrojKartice" class="form-control" readonly />
+                <span asp-validation-for="BrojKartice" class="text-danger"></span>
+            </div>
+
+            <a asp-action="Index" asp-controller="Klijent" asp-area="AdministratorModul" class="btn btn-outline-danger btn-lg">Nazad</a>
+
+        </div>
+    </form>
+
+</div>

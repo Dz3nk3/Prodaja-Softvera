@@ -1,0 +1,72 @@
+﻿
+@using  Prodaja_Softvera_ver3.Web.Areas.KlijentModul.ViewModels
+
+@model Prodaja_Softvera_ver3.Web.Areas.KlijentModul.ViewModels.RacunIndexVM
+
+@{
+    ViewData["Title"] = "Index";
+    var porukaSuccess = (string)TempData["porukaSuccess"];
+    var porukaWarning = (string)TempData["porukaWarning"];
+    var porukaError = (string)TempData["porukaError"];
+    Layout = "~/Areas/KlijentModul/Views/Shared/_Layout.cshtml";
+
+
+}
+
+<h1>Racun</h1>
+
+
+
+@if (porukaError != null)
+{
+    <div class="alert alert-danger" role="alert" id="porukaBox">
+        @porukaError
+    </div>
+}
+
+@if (porukaWarning != null)
+{
+    <div class="alert alert-warning" role="alert" id="porukaBox">
+        @porukaWarning
+    </div>
+}
+
+@if (porukaSuccess != null)
+{
+    <div class="alert alert-success" role="alert" id="porukaBox">
+        @porukaSuccess
+    </div>
+}
+
+<!--Proljespati izgled tabele-->
+
+
+<table class="table table-bordered">
+    <thead class="thead-dark">
+        <tr>
+            <th>RacunID</th>
+            <th>Datum</th>
+            <th>Cijena</th>
+            <th>Akcija</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var x in @Model.rows)
+        {
+            <tr>
+                <td>@x.RacunID</td>
+                <td>@x.Datum</td>
+                <td>@x.Cijena</td>
+
+                <td>
+
+
+                    <a asp-action="OcjeniKomentarisi" asp-controller="Racun" asp-route-id="@x.RacunID" class="btn btn-primary">Ocjeni i Komentarisi</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

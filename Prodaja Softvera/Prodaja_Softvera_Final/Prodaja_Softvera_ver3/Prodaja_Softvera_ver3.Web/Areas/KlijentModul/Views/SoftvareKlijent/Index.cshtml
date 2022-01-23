@@ -1,0 +1,160 @@
+﻿
+@using Prodaja_Softvera_ver3.Web.Areas.KlijentModul.ViewModels
+@model cloudscribe.Pagination.Models.PagedResult<SoftvareKlijentIndexVM.Row>
+@addTagHelper *, cloudscribe.Web.Pagination
+
+@{
+    ViewData["Title"] = "Index";
+    ViewData["Controller"] = "SoftvareKlijent";
+    ViewData["Action"] = "Index";
+
+    var porukaSuccess = (string)TempData["porukaSuccess"];
+    var porukaWarning = (string)TempData["porukaWarning"];
+    var porukaError = (string)TempData["porukaError"];
+
+    Layout = "~/Areas/KlijentModul/Views/Shared/_Layout.cshtml";
+
+
+}
+@*<link href="~/css/stilzaSearch.css" rel="stylesheet" asp-append-version="true" />*@
+
+<link href="~/css/stilzaSearch.css" rel="stylesheet" asp-append-version="true" />
+
+
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
+
+<style>
+    glavni {
+        width: 100%;
+        height: 1400px;
+        margin-left: 7%;
+    }
+
+    .boxovi {
+        border: solid 1px #ada8aa;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        border-radius: 10px;
+        width: 300px;
+        height: 300px;
+        float: left;
+        box-sizing: border-box;
+        margin: 20px;
+        margin-top: 20px;
+    }
+
+    .donji {
+        width: 100%;
+        height: 20%;
+        margin-top: 30px;
+        margin-left: 15px;
+    }
+</style>
+
+
+<div class="container">
+
+    <div class="glavni">
+
+        <div class="card-header bg-dark text-light">
+            <p class="h4"> Pretraga softvera</p>
+
+            <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Pretrazi..">
+
+        </div>
+
+        <div class="donji">
+            <table id="myTable" class="table table-hover">
+
+                <thead class="card-header bg-dark text-light" hidden>
+                    <tr>
+                        <th style="width:50%;">Naziv</th>
+                        <th style="width:50%;">Slika</th>
+                        <th style="width:50%;">Verzija</th>
+                        <th style="width:50%;">cijena</th>
+                        <th style="width:50%;">Ocjena</th>
+                        <th style="width:50%;">Komentar</th>
+                        <th style="width:50%;">TipSoftvera </th>
+                        <th style="width:50%;">Specifikacije</th>
+                        <th style="width:50%;">Akcija</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var x in @Model.Data)
+                    {
+                    <tr>
+                        <td>@x.Naziv</td>
+                        <td><img src="~/Slike/@x.imgfilename" width="75" height="75" class="image rounded-circle" /></td>
+                        <td>@x.Verzija</td>
+                        <td>@x.Cijena KM</td>
+                        <td>
+
+
+                            @for (int i = 0; i < x.Ocjena; i++)
+                            {
+                                <span class="glyphicon glyphicon-star"></span>
+                            }
+
+                            @for (int i = x.Ocjena; i < 5; i++)
+                            {
+                                <span class="glyphicon glyphicon-star-empty"></span>
+                            }
+                        </td>
+                        @if (String.IsNullOrEmpty(x.Komentar))
+                        {
+                            <td>Nema komentara</td>
+                        }
+                        else
+                        {
+                            <td>@x.Komentar</td>
+                        }
+                        <td>@x.TipSoftvera</td>
+                        <td>@x.Specifikacije</td>
+                        <td>
+                            <br />
+                            <a asp-action="Detalji" asp-controller="SoftvareKlijent" asp-route-id="@x.SoftverID" class="btn btn-outline-primary btn-sm">Detalji</a>
+                            <a asp-area="KlijentModul" asp-controller="Narudzbe" asp-action="DodajUKorpu" asp-route-id="@x.SoftverID" class="btn btn-outline-info btn-sm"><i class="fas fa-cart-plus"></i></a>
+                            <br />
+
+                        </td>
+                    </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+        <partial name="_PaginationPartial" view-data="ViewData" model="Model" />
+
+
+    </div>
+
+</div>
+
+
+
+
+
+<script>
+    function myFunction() {
+        // Declare variables
+        var input, filter, table, tr, td, i, txtValue;
+        input = document.getElementById("myInput");
+        filter = input.value.toUpperCase();
+        table = document.getElementById("myTable");
+        tr = table.getElementsByTagName("tr");
+
+        // Loop through all table rows, and hide those who don't match the search query
+        for (i = 0; i < tr.length; i++) {
+            td = tr[i].getElementsByTagName("td")[0];
+            if (td) {
+                txtValue = td.textContent || td.innerText;
+                if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                    tr[i].style.display = "";
+                } else {
+                    tr[i].style.display = "none";
+                }
+            }
+        }
+    }
+</script>
+
+

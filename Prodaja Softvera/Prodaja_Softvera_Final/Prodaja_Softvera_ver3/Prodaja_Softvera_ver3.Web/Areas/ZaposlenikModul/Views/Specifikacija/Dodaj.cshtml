@@ -1,0 +1,58 @@
+﻿@using Prodaja_Softvera_ver3.Web.Areas.ZaposlenikModul.ViewModels
+
+@model Prodaja_Softvera_ver3.Web.Areas.ZaposlenikModul.ViewModels.SpecifikacijaDodajVM
+@{
+    ViewData["Title"] = "Dodaj";
+}
+
+<h1>Dodaj</h1>
+
+<form asp-action="Snimi">
+
+    <div class="form-group">
+
+        <div>
+            @Html.HiddenFor(s => s.SpecifikacijeID)
+        </div>
+
+        <div class="form-group">
+            <label>Naziv</label>
+            <input asp-for="Naziv" class="form-control" />
+            <span asp-validation-for="Naziv" class="text-danger"></span>
+
+        </div>
+
+        <div class="form-group">
+            <label>Operativni sistem:</label>
+            <input asp-for="OS" class="form-control" />
+            <span asp-validation-for="OS" class="text-danger"></span>
+
+        </div>
+
+
+        @*<div class="form-group">
+            <label>Hard disk </label>
+            <select asp-for="HDD" asp-items="Model.HDD" class="form-control"></select>
+            <span asp-validation-for="HDD" class="text-danger"></span>
+
+
+        </div>
+
+
+        <div class="form-group">
+            <label>Zaposlenik </label>
+            <select asp-for="ZaposlenikID" asp-items="Model.Zaposlenik" class="form-control"></select>
+            <span asp-validation-for="ZaposlenikID" class="text-danger"></span>
+
+        </div>
+        <div class="form-group">
+            <label>Softver </label>
+            <select asp-for="SoftverID" asp-items="Model.Softver" class="form-control"></select>
+            <span asp-validation-for="SoftverID" class="text-danger"></span>
+
+        </div>*@
+
+    </div>
+    <input type="submit" class="btn btn-success btn-lg" value="Snimi" />
+
+</form>

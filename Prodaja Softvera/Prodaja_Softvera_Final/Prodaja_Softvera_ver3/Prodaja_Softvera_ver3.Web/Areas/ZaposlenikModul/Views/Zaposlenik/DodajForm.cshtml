@@ -1,0 +1,74 @@
+﻿@using Prodaja_Softvera_ver3.Web.Areas.AdministratorModul.ViewModels
+
+@model ZaposlenikUrediViewModel2
+
+@{
+    ViewData["Title"] = "Dodaj";
+    var porukaSuccess = (string)TempData["porukaSuccess"];
+    var porukaWarning = (string)TempData["porukaWarning"];
+    var porukaError = (string)TempData["porukaError"];
+    Layout = "~/Areas/ZaposlenikModul/Views/Shared/_Layout.cshtml";
+
+}
+
+<h1>Dodaj</h1>
+
+
+@if (porukaError != null)
+{
+    <div class="alert alert-danger" role="alert" id="porukaBox">
+        @porukaError
+    </div>
+}
+
+@if (porukaWarning != null)
+{
+    <div class="alert alert-warning" role="alert" id="porukaBox">
+        @porukaWarning
+    </div>
+}
+
+@if (porukaSuccess != null)
+{
+    <div class="alert alert-success" role="alert" id="porukaBox">
+        @porukaSuccess
+    </div>
+}
+
+
+
+<form asp-action="Snimi">
+    <input asp-for="ZaposlenikID" hidden />
+    <div class="form-group">
+
+        <div>
+            @Html.HiddenFor(s => s.ZaposlenikID)
+        </div>
+
+        <div class="form-group">
+            <label>TipZaposlenikaID:</label>
+            <select asp-for="TipZaposlenikaID" asp-items="@Model.TipZaposlenika" class="form-control"></select>
+
+        </div>
+
+        <div class="form-group">
+            <label>Fakultet:</label>
+            <select asp-for="FakultetID" asp-items="@Model.Fakultet" class="form-control"></select>
+
+        </div>
+
+
+        <div class="form-group">
+            <label>Grad:</label>
+            <select asp-for="GradID" asp-items="@Model.Grad" class="form-control"></select>
+
+        </div>
+
+    
+
+
+
+        <input type="submit" class="btn btn-success btn-lg" value="Snimi" />
+    </div>
+</form>
+

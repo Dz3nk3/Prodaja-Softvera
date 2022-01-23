@@ -1,0 +1,69 @@
+﻿@model Prodaja_Softvera_ver3.Web.Areas.KlijentModul.ViewModels.KupiVM
+
+@{
+    ViewData["Title"] = "Detalji";
+    var porukaSuccess = (string)TempData["porukaSuccess"];
+    var porukaWarning = (string)TempData["porukaWarning"];
+    var porukaError = (string)TempData["porukaError"];
+    
+    Layout = "~/Areas/KlijentModul/Views/Shared/_Layout.cshtml";
+
+}
+
+<h1>Kupi</h1>
+
+@if (porukaError != null)
+{
+    <div class="alert alert-danger" role="alert" id="porukaBox">
+        @porukaError
+    </div>
+}
+
+@if (porukaWarning != null)
+{
+    <div class="alert alert-warning" role="alert" id="porukaBox">
+        @porukaWarning
+    </div>
+}
+
+@if (porukaSuccess != null)
+{
+    <div class="alert alert-success" role="alert" id="porukaBox">
+        @porukaSuccess
+    </div>
+}
+
+
+<form class="form-group !important" asp-action="Snimi">
+    <div class="form-group !important">
+        <div class="form-group !important">
+            <label>Datum:</label>
+            <input asp-for="Datum" class="form-control"  />
+
+        </div>
+        <div class="form-group !important">
+            <label>Cijena:</label>
+            <input asp-for="Cijena" class="form-control"  />
+
+        </div>
+        <div class="form-group !important">
+            <label>Ocjena:</label>
+            <input asp-for="Ocjena" class="form-control"  />
+
+        </div>
+
+        <div class="form-group">
+            <label>Nacin placanja </label>
+            <select asp-for="NacinPlacanjaID" asp-items="@Model.NacinPlacanja" class="form-control"></select>
+            
+        </div>
+
+        <div class="form-group !important">
+            <label>Dostava:</label>
+            <select asp-for="DostavaID" asp-items="@Model.Dostava" class="form-control"></select>
+
+        </div>
+    </div>
+</form>
+
+<button type="submit" value="Kupi" class="btn btn-outline-info btn-lg">Kupi</button>

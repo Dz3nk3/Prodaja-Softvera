@@ -1,0 +1,80 @@
+﻿
+@using Prodaja_Softvera_ver3.Web.Areas.ZaposlenikModul.ViewModels
+@model TipSoftveraIndexVM 
+
+@{
+    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Prikazi";
+    var porukaSuccess = (string)TempData["porukaSuccess"];
+    var porukaWarning = (string)TempData["porukaWarning"];
+    var porukaError = (string)TempData["porukaError"];
+    Layout = "~/Areas/ZaposlenikModul/Views/Shared/_Layout.cshtml";
+
+}
+
+@if (porukaError != null)
+{
+    <div class="alert alert-danger" role="alert" id="porukaBox">
+        @porukaError
+    </div>
+}
+
+@if (porukaWarning != null)
+{
+    <div class="alert alert-warning" role="alert" id="porukaBox">
+        @porukaWarning
+    </div>
+}
+
+@if (porukaSuccess != null)
+{
+    <div class="alert alert-success" role="alert" id="porukaBox">
+        @porukaSuccess
+    </div>
+}
+
+
+<h1>Prikaz tipa softvera</h1>
+
+
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th>Naziv</th>
+            <th>Opis</th>
+            <th><br /></th>
+            <th><br /></th>
+            <th><br /></th>
+            <th><br /></th>
+            <th><br /></th>
+            <th><br /></th>
+            <th><br /></th>
+            <th><br /></th>
+            <th><br /></th>
+            <th>Akcija</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var x in Model.rows)
+        {
+        <tr>
+            <td>@x.Naziv</td>
+            <td>@x.Opis</td>
+            <td><br /></td>
+            <td><br /></td>
+            <td><br /></td>
+            <td><br /></td>
+            <td><br /></td>
+            <td><br /></td>
+            <td><br /></td>
+            <td><br /></td>
+            <td><br /></td>
+            <td>
+                <a asp-action="Obrisi" asp-controller="TipSoftvera" asp-route-id="@x.TipSoftveraID" class="btn btn-danger">Obriši</a>
+                <a asp-action="Dodaj" asp-controller="TipSoftvera" asp-route-id="@x.TipSoftveraID" class="btn btn-primary">Uredi</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+

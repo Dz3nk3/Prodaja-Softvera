@@ -1,0 +1,78 @@
+﻿@model Prodaja_Softvera_ver3.Web.Areas.KlijentModul.ViewModels.SoftvareKlijentIndexVM
+@*@model List<Prodaja_Softvera_ver3.Data.EntityModels.Softver>*@
+@{
+    ViewData["Title"] = "Index";
+    //var porukaSuccess = (string)TempData["porukaSuccess"];
+    //var porukaWarning = (string)TempData["porukaWarning"];
+    //var porukaError = (string)TempData["porukaError"];
+    //Layout = "~/Views/Shared/_Layout.cshtml";
+    Layout = "~/KlijentModul/Views/Shared/_Layout.cshtml";
+
+}
+
+<h1>Index</h1>
+
+
+@*@if (porukaError != null)
+    {
+        <div class="alert alert-danger" role="alert" id="porukaBox">
+            @porukaError
+        </div>
+    }
+
+    @if (porukaWarning != null)
+    {
+        <div class="alert alert-warning" role="alert" id="porukaBox">
+            @porukaWarning
+        </div>
+    }
+
+    @if (porukaSuccess != null)
+    {
+        <div class="alert alert-success" role="alert" id="porukaBox">
+            @porukaSuccess
+        </div>
+    }*@
+
+
+<form asp-controller="SoftvareKlijent" asp-action="Search">
+    <p>
+        <input type="text" name="searchTXT" placeholder="Pretraga proizvoda po nazivu" style="width:90%; height:40px; border-radius:5px; border:3px solid #e9eef0; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+        <input type="submit" value="Traži" style="border-radius: 5px; border: 4px solid #e9eef0; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" />
+    </p>
+</form>
+
+<table class="table table-bordered">
+    <thead class="thead-dark">
+        <tr>
+            <th>Naziv</th>
+            <th>Verzija</th>
+            <th>Cijena</th>
+            <th>TipSoftvera </th>
+            <th>Specifikacije</th>
+            <th>Akcija</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var x in @Model.rows)
+        {
+            <tr>
+                <td>@x.Naziv</td>
+                <td>@x.Verzija</td>
+                <td>@x.Cijena</td>
+                <td>@x.TipSoftvera</td>
+                <td>@x.Specifikacije</td>
+                <td>
+
+                    <a asp-action="Naruci" asp-controller="SoftvareKlijent" asp-route-id="@x.SoftverID" class="btn btn-danger">Naruci</a>
+                    <br /><br />
+                    <a asp-action="Detalji" asp-controller="SoftvareKlijent" asp-route-id="@x.SoftverID" class="btn btn-primary">Detalji</a>
+
+
+
+                    @*  <a asp-action="Uredi" asp-controller="Klijent" asp-route-id="@x.RacunID" class="btn btn-primary">Uredi</a>*@
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

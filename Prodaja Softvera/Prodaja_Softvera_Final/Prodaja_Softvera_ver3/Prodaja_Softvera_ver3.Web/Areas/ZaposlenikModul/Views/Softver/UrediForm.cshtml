@@ -1,0 +1,151 @@
+﻿@*@using Prodaja_Softvera_ver3.Data.EntityModels;
+
+    @model Prodaja_Softvera_ver3.Web.ViewModels.SoftverUrediViewModel
+
+    @{
+        ViewData["Title"] = "UrediForm";
+
+    }
+
+        <div class="content-wrapper p-4">
+
+            <h1 class="display-4">Uredi softver</h1>
+
+            <form asp-action="Snimi">
+
+                <div class="form-group">
+
+                    <div>
+                        @Html.HiddenFor(s => s.SoftverID)
+                    </div>
+
+                    <div class="form-group">
+                        <label>Naziv</label>
+                        <input asp-for="Naziv" class="form-control" />
+                        <span asp-validation-for="Naziv" class="text-danger"></span>
+
+                    </div>
+
+                    <div class="form-group">
+                        <label>Slika</label>
+                        <input asp-for="file" type="file" name="file" class="form-control" />
+
+                    </div>
+
+
+                    <div class="form-group">
+                        <label>Verzija</label>
+                        <input asp-for="Verzija" class="form-control" />
+                        <span asp-validation-for="Verzija" class="text-danger"></span>
+
+                    </div>
+
+                    <div class="form-group">
+                        <label>Cijena</label>
+                        <input asp-for="cijena" class="form-control" />
+                        <span asp-validation-for="cijena" class="text-danger"> </span>
+
+                    </div>
+
+                    <div class="form-group">
+                        <label>Tip softvera </label>
+                        <select asp-for="TipSoftveraID" asp-items="Model.TipSoftvera" class="form-control"></select>
+                        <span asp-validation-for="TipSoftveraID" class="text-danger"></span>
+
+                    </div>
+
+
+                    <div class="form-group">
+                        <label>Specifikacije </label>
+                        <select asp-for="SpecifikacijeID" asp-items="Model.Specifikacije" class="form-control"></select>
+                        <span asp-validation-for="SpecifikacijeID" class="text-danger"></span>
+                    </div>
+                    <input type="submit" class="btn btn-success btn-lg" value="Snimi" />
+                </div>
+            </form>
+
+        </div>*@
+
+
+@using Prodaja_Softvera_ver3.Data.EntityModels;
+
+@model Prodaja_Softvera_ver3.Web.ViewModels.SoftverUrediViewModel
+
+@{
+    ViewData["Title"] = "DodajForm";
+}
+
+
+<div class="content-wrapper p-4">
+
+    <h1 class="display-4">Dodaj novi softver</h1>
+
+    <form asp-action="Snimi" enctype="multipart/form-data">
+
+        <div class="form-group">
+
+            <div>
+                @Html.HiddenFor(s => s.SoftverID)
+            </div>
+
+            <div class="form-group">
+                <label>Naziv</label>
+                <input asp-for="Naziv" class="form-control" />
+                <span asp-validation-for="Naziv" class="text-danger"></span>
+
+            </div>
+
+
+            <div class="form-group">
+                <label>Slika</label>
+                <input asp-for="file" type="file" name="file" class="form-control" />
+
+            </div>
+
+
+
+            @*<div class="form-group">
+                    <label>Slika</label>
+                    <input asp-for="file" type="file" name="file" class="form-control" />
+
+                </div>*@
+
+
+
+
+            <div class="form-group">
+                <label>Verzija</label>
+                <input asp-for="Verzija" class="form-control" />
+                <span asp-validation-for="Verzija" class="text-danger"></span>
+
+            </div>
+
+
+            <div class="form-group">
+                <label>Cijena</label>
+                <input asp-for="cijena" class="form-control" />
+                <span asp-validation-for="cijena" class="text-danger"></span>
+
+            </div>
+
+
+            <div class="form-group">
+                <label>Tip softvera</label>
+                <select asp-for="TipSoftveraID" asp-items="@Model.TipSoftvera" class="form-control"></select>
+
+            </div>
+
+
+            <div class="form-group">
+                <label>Specifikacija</label>
+                <select asp-for="SpecifikacijeID" asp-items="@Model.Specifikacije" class="form-control"></select>
+
+            </div>
+
+        </div>
+        <input type="submit" class="btn btn-success btn-lg" value="Snimi" />
+
+    </form>
+
+</div>
+

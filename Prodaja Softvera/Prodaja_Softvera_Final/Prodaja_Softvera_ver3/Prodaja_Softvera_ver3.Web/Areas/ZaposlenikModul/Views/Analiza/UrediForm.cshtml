@@ -1,0 +1,64 @@
+﻿@using Prodaja_Softvera_ver3.Data.EntityModels;
+
+@model Prodaja_Softvera_ver3.Web.ViewModels.AnalizaUrediViewModel
+
+@{
+    ViewData["Title"] = "UrediForm";
+
+}
+
+    <div class="content-wrapper p-4">
+
+        <h1 class="display-4">Uredi analizu</h1>
+
+        <form asp-action="Snimi">
+
+            <div class="form-group">
+
+                <div>
+                    @Html.HiddenFor(s => s.AnalizaID)
+                </div>
+
+                <div class="form-group">
+                    <label>Naziv</label>
+                    <input asp-for="Naziv" class="form-control" />
+                    <span asp-validation-for="Naziv" class="text-danger"></span>
+
+                </div>
+
+                <div class="form-group">
+                    <label>Datum analize</label>
+                    <input asp-for="Datum_analize" class="form-control" />
+                    <span asp-validation-for="Datum_analize" class="text-danger"></span>
+
+                </div>
+
+
+                <div class="form-group">
+                    <label>Klijent </label>
+                    <select asp-for="KlijentID" asp-items="Model.Klijent" class="form-control"></select>
+                    <span asp-validation-for="KlijentID" class="text-danger"></span>
+
+
+                </div>
+
+
+                <div class="form-group">
+                    <label>Zaposlenik </label>
+                    <select asp-for="ZaposlenikID" asp-items="Model.Zaposlenik" class="form-control"></select>
+                    <span asp-validation-for="ZaposlenikID" class="text-danger"></span>
+
+                </div>
+                <div class="form-group">
+                    <label>Softver </label>
+                    <select asp-for="SoftverID" asp-items="Model.Softver" class="form-control"></select>
+                    <span asp-validation-for="SoftverID" class="text-danger"></span>
+
+                </div>
+
+            </div>
+            <input type="submit" class="btn btn-success btn-lg" value="Snimi" />
+
+        </form>
+    </div>
+
